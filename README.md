@@ -126,5 +126,5 @@ There are 21 columns including location, pricing, rating, and service informatio
 ---
 
 ## Contact
-For questions or suggestions, please reach out to the project maintainer.
+For questions or suggestions, please reach out to me on [LinkedIn](https://www.linkedin.com/in/ch-ayushman-patro).
 

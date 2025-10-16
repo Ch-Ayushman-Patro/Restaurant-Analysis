@@ -1,9 +1,5 @@
 # Restaurant Analysis
 
-**Date:** March 3, 2024
-
----
-
 ## Project Overview
 This project involves an exploratory data analysis (EDA) of a restaurant dataset aimed at understanding various aspects such as cuisine popularity, restaurant ratings, city-wise restaurant distribution, price ranges, online delivery availability and restaurant chains’ performance.
 

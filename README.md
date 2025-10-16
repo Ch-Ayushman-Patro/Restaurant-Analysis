@@ -5,7 +5,7 @@
 ---
 
 ## Project Overview
-This project involves an exploratory data analysis (EDA) of a restaurant dataset aimed at understanding various aspects such as cuisine popularity, restaurant ratings, city-wise restaurant distribution, price ranges, online delivery availability, and restaurant chains’ performance.
+This project involves an exploratory data analysis (EDA) of a restaurant dataset aimed at understanding various aspects such as cuisine popularity, restaurant ratings, city-wise restaurant distribution, price ranges, online delivery availability and restaurant chains’ performance.
 
 ---
 
@@ -65,12 +65,11 @@ There are 21 columns including location, pricing, rating, and service informatio
 - Restaurants with online delivery have a higher average rating (3.25) compared to those without (2.46).
 
 ### Ratings & Popularity
-- The most frequent aggregate rating is 0.0, appearing 2148 times.
 - The average number of votes per restaurant is approximately 157.
 - Higher rated restaurants tend to receive more votes.
 
 ### Restaurant Chains
-- Chains like Cafe Coffee Day, Domino's Pizza, Subway, Green Chick Chop, and McDonald's are present in multiple locations.
+- Chains like Cafe Coffee Day, Domino's Pizza, Subway, Green Chick Chop and McDonald's are present in multiple locations.
 - Detailed analysis of chains shows variation in their average ratings and total votes received.
 
 ---
@@ -88,14 +87,13 @@ There are 21 columns including location, pricing, rating, and service informatio
 - Python with pandas, numpy for data manipulation
 - seaborn and matplotlib for visualization
 - plotly.express for interactive maps
-- Warnings filter to ignore unnecessary warnings
 
 ---
 
 ## How to Use This Repository
 1. Load the dataset `'Restaurant Dataset.csv'`.
 2. Run the notebooks or scripts to reproduce the analysis.
-3. Review visualizations for insights on price ranges, cuisine popularity, and restaurant distribution.
+3. Review visualizations for insights on price ranges, cuisine popularity and restaurant distribution.
 4. Use grouped statistics to understand restaurant ratings by city and cuisine.
 
 ---

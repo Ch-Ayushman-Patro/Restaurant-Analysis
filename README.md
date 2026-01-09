@@ -262,7 +262,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 📬 Contact
 
-**Ch Ayushman Patro**
+**Developed by Ch Ayushman Patro**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/ch-ayushman-patro)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/Ch-Ayushman-Patro)

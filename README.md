@@ -148,7 +148,7 @@ The dataset comprises **9,551 restaurants** with **21 comprehensive attributes**
 - Customer engagement is a strong indicator of quality
 - Highly-rated restaurants benefit from positive feedback loops
 
-### 🏢 Restaurant Chains
+### Restaurant Chains
 
 **Major Chains Analyzed:**
 - Cafe Coffee Day
